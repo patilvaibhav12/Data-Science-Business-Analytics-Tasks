@@ -2,4 +2,6 @@
 Graduate Rotational Internship Program The Sparks Foundation
 
 **Task - 1**:  __Problem Statement__ : Predict the percentage of marks of an student based on the number of
-study hours using Supervise Machine Learning.
+study hours using *Supervise Machine Learning*.
+__Language__ : This project is implemented in Python3. 
+
